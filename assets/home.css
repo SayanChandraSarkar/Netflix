@@ -1,0 +1,11 @@
+@import url("individual/base.css");
+@import url("individual/dimensions.css");
+@import url("ix.css");
+
+@import url("https://fonts.googleapis.com/css2?family=Robot:wght@400;500;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
